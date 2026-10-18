@@ -1,2 +1,3 @@
 Ödev Dosyası oluşturuldu
 Ödevde istenilenler tek bir JS dosyasında oluşturuldu
+Tüm hepsi test edildi ve canlıya alındı

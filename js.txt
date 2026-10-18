@@ -1,1 +1,2 @@
 Ödev Dosyası oluşturuldu
+Ödevde istenilenler tek bir JS dosyasında oluşturuldu
